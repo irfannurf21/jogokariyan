@@ -1,3 +1,7 @@
+body {
+    background-image: url('./assets/img/wp.png');
+  }
+
 h2 {
     text-align: center;
 }
@@ -64,12 +68,6 @@ p   {
     align-items: center;
 }
 
-
-
-body {
-    background-image: url('./assets/img/wp.png');
-  }
-
 .center {
     display: block;
     margin-left: auto;
@@ -83,15 +81,16 @@ body {
   }
 
 
-.centerklik:hover  {     
-    background-color: navy;
-  }
-
-
   .carousel {
     width:fullwidth;
   }
 
   .carousel img {
     filter: brightness(30%);
+  }
+
+  .carousel h5 {
+    font-size:xx-large ; 
+    font-weight: bolder;
+    text-shadow:  2px 2px 5px rgb(8, 157, 25);
   }
