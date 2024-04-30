@@ -1,0 +1,97 @@
+h2 {
+    text-align: center;
+}
+
+.hero img {
+    filter: blur(1px);
+}
+
+.collapse .nav-item .nav-link {
+    font-weight: 700;
+}
+
+.container-about {
+    margin: 2,2,0,0;
+    background-color: aqua;
+}
+
+.profil h1 {
+    text-align: center; font-family: Helvetica; font-weight: 700; color: gray; padding-top: 4%;
+}
+
+.manajemenunggul h1 {
+    text-align: center; font-family: Helvetica; font-weight: 700; color: gray; padding-top: 4%;
+}
+
+.supportdakwah h1 {
+    text-align: center; font-family: Helvetica; font-weight: 700; color: gray; padding-top: 4%;
+}
+
+.container .card img {
+    width: 100px; align-content: center ; border-radius: 50%; border-color: red; border-radius: 100%;
+}
+
+.supportdakwah img {
+    border-radius: 10px; 
+}
+
+.container .card .card-title1 {
+    color: rgb(8, 157, 25); font-weight: 700; text-align: center;
+}
+
+
+.container .card .card-text1  {
+ text-align: center;
+}
+
+.container .card p  {
+    text-align: left;
+   }
+
+.container .card .card-title {
+    color: rgb(8, 157, 25); font-weight: 700;
+}
+
+p   {
+    text-justify: auto;
+}
+
+.desc {
+    text-align: center; padding-left: 10%; padding-right: 10%;
+}
+
+.youtube {
+    align-items: center;
+}
+
+
+
+body {
+    background-image: url('./assets/img/wp.png');
+  }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+  }
+
+  .centerklik {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+  }
+
+
+.centerklik:hover  {     
+    background-color: navy;
+  }
+
+
+  .carousel {
+    width:fullwidth;
+  }
+
+  .carousel img {
+    filter: brightness(30%);
+  }
